@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">A_Z</string>
+    <string-array name="date">
+        <item>地铁</item>
+        <item>银子</item>
+        <item>房</item>
+        <item>程序员</item>
+        <item>礼</item>
+        <item>自己</item>
+        <item>新公司</item>
+        <item>搜索</item>
+        <item>拼音</item>
+        <item>汉字</item>
+        <item>列表</item>
+        <item>主题</item>
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+    </string-array>
+
+</resources>
